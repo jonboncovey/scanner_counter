@@ -1,0 +1,4 @@
+enum PropositionType {
+  buildingHighSchool,
+  weAreBallot,
+}
